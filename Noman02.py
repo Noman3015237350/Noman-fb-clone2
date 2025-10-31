@@ -40,7 +40,7 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B"
+channel_link = "https://chat.whatsapp.com/BLsQQxNCuEi1gAj0ddueec?mode=wwt"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
