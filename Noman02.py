@@ -125,8 +125,8 @@ if __name__ == "__main__":
     # ---------- main tool starts here ----------
     print(">>> Tool Successfully Unlocked <<<")
 
-print(' \x1b[38;5;46mALI HASSAN BLOUCH SERVER LOADING....')
-os.system('espeak -a 300 " ALI KHAN SERVER LOADING"')
+print(' \x1b[38;5;46mNoman Ehical Hacker SERVER LOADING....')
+os.system('espeak -a 300 " Noman Ethical hacker LOADING"')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -140,7 +140,7 @@ os.system('espeak -a 300 " ALI SERVER SUCCESSFUL LOGIN."')
 
 # Initial setup and promotion
 os.system('clear')
-os.system('xdg-open https://www.youtube.com/@Alirafiq29 ')
+os.system('xdg-open https://www.facebook.com/md.norman.988 ')
 
 # --- Anti-tampering and Security Checks ---
 # The script checks if the source code of the 'requests' library has been modified
