@@ -44,7 +44,7 @@ channel_link = "https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "ALI HERO-404 UPDATE NOW USE IT "
+    "NOMAN02"
 ]
 
 # ANSI color codes
@@ -226,7 +226,6 @@ def windows():
     D = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.{str(random.choice(range(1, 7120)))}.0 Safari/537.36"
     return random.choice([A, B, C, D])
 
-
 def window1():
     """
     Generates another variant of a random Windows User-Agent string.
@@ -261,19 +260,22 @@ def ____banner____():
         os.system('clear')
     # AHB Clover Logo - Green - Version 2.5
 def ____banner____():
+    """
+    Displays the main banner with 'NOMAN' only.
+    """
     if 'win' in sys.platform:
         os.system('cls')
     else:
         os.system('clear')
-    
+
     print("""\033[1;32m
-        
-               ░█████╗░  ██╗░░██╗  ██████╗░
-               ██╔══██╗  ██║░░██║  ██╔══██╗
-               ███████║  ███████║  ██████╦╝
-               ██╔══██║  ██╔══██║  ██╔══██╗
-               ██║░░██║  ██║░░██║  ██████╦╝
-               ╚═╝░░╚═╝  ╚═╝░░╚═╝  ╚═════╝░
+ _   _  ____  __  __    _    _   _  
+| \ | |/ __ \|  \/  |  / \  | \ | | 
+|  \| | |  | | \  / | / _ \ |  \| | 
+| . ` | |  | | |\/| |/ ___ \| . ` |
+|_|\__|\____/|_|  |_/_/   \_\_|\__/
+
+                         NOMAN-EHICAL-HACKER
 \033[0m""")
  
 def creationyear(uid):
