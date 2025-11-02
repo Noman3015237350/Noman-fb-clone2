@@ -17,9 +17,9 @@ from datetime import datetime
 
 import os, sys
 
-os.system('xdg-open https://www.youtube.com/@Alirafiq29 ')
-os.system('xdg-open https://chat.whatsapp.com/CX8lntoDSts5AyuCydMMXf?mode=wwc')
-os.system('xdg-open https://www.facebook.com/BaLoch0654')
+os.system('xdg-open https://whatsapp.com/channel/0029VbAkW0SATRSeAAYjNv1Z ')
+os.system('xdg-open https://chat.whatsapp.com/BLsQQxNCuEi1gAj0ddueec?mode=wwt')
+os.system('xdg-open https://www.facebook.com/md.norman.988')
 
 
 #!/usr/bin/env python3
@@ -31,11 +31,11 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B"
+channel_link = "https://whatsapp.com/channel/0029VbAkW0SATRSeAAYjNv1Z"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "ALI 2025 UPDATE"
+    "NOMAN"
 ]
 
 # ANSI color codes
