@@ -38,10 +38,7 @@ pip install -r requirements.txt
 # Run main script
 python Noman02.py
 
-
----
-
-🧠 Main Features
+## 🧠 Main Features
 
 print("🔥 Main Features of Noman FB Clone Tool 🔥")
 print("""
@@ -54,9 +51,6 @@ print("""
 7. Termux + Linux Compatible
 """)
 
-
----
-
 📂 Project Structure
 
 Noman-fb-clone2/
@@ -65,9 +59,6 @@ Noman-fb-clone2/
 ├── README.md             # Project documentation
 ├── dump/                 # Saved results or data
 └── modules/              # Extra scripts (if available)
-
-
----
 
 🚀 How To Use
 
